@@ -1,8 +1,8 @@
 <?php 
   $host = 'localhost';
-  $db = 'dbprojek';
-  $user = 'root';
-  $pass = '';
+  $db = 'db_alvi22041ti';
+  $user = 'alvi22041ti';
+  $pass = '16060110222041';
   $charset='utf8mb4';
 
   $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
